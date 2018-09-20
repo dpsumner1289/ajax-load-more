@@ -17,7 +17,3 @@ Sinply add the files in this repository to the corresponding files on your Wordp
 ## Built With
 
 * [Wordpress](https://developer.wordpress.org/) - The web framework used
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
